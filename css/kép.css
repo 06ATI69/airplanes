@@ -1,0 +1,91 @@
+body {
+    background-image: url(https://images.pexels.com/photos/531756/pexels-photo-531756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: hsl(240, 100%, 10%, .6);
+    margin: 2rem;
+}
+#aircraft {
+    float: left;
+    transform: rotate(-30deg);
+    box-shadow: black 10px 5px 15px;
+    width: 15.625rem;
+    height: 12.5rem;
+    margin: 2rem;
+}
+#eagles {
+    float: left;
+    transform: rotate(30deg);
+    box-shadow: black 10px 5px 15px;
+    width: 15.625rem;
+    height: 12.5rem;
+    margin: 2rem;
+}
+#A-10 {
+    float: left;
+    transform: rotate(30deg);
+    box-shadow: black 10px 5px 15px;
+    width: 15.625rem;
+    height: 12.5rem;
+    margin: 2rem;
+}
+#F-16 {
+    float: left;
+    transform: rotate(-30deg);
+    box-shadow: black 10px 5px 15px;
+    width: 15.625rem;
+    height: 12.5rem;
+    margin: 2.5rem;
+}
+#eurofigther {
+    float: left;
+    transform: rotate(10deg);
+    box-shadow: black 10px 5px 15px;
+    width: 21.875rem;
+    height: 12.5rem;
+    margin: 3rem;
+}
+#gripen {
+    float: right;
+    transform: rotate(10deg); 
+    box-shadow: black 10px 5px 10px; 
+    width: 21.875rem;
+    height: 12.5rem;
+    margin: 3rem;
+}
+#hawk {
+    float: right;
+    transform: rotate(10deg); 
+    box-shadow: black 10px 5px 15px; 
+    width: 18.75rem;
+    height: 12.5rem;
+    margin: 3rem;
+}
+#F-23 {
+    float: left;
+    transform: rotate(-15deg); 
+    box-shadow: black 10px 5px 15px;  
+    width: 21.875rem;
+    height: 12.5rem;
+    margin: 3rem;
+}
+#buccaneer {
+    float: left;
+    transform: rotate(-15deg); 
+    box-shadow: black 10px 5px 15px; 
+    width: 21.875rem;
+    height: 12.5rem;
+    margin: 3rem;
+}
+#tornado {
+    float: left;
+    transform: rotate(-15deg); 
+    box-shadow: black 10px 5px 15px; 
+    width: 18.75rem;
+    height: 12.5rem;
+    margin: 3rem;
+}
